@@ -1,4 +1,4 @@
-## NewsMonkey is a dynamic news application built using ReactJS, HTML, CSS, and Bootstrap, providing users with a seamless and personalized news-reading experience. This project showcases the implementation of features like infinite scroll, a dynamic spinner, and a loading bar, along with the sleek design elements of Bootstrap.
+![image](https://github.com/Pradnya129/NewsMonkey/assets/129608807/b9f0af4d-234d-4d1d-bd32-d328f6549b60)## NewsMonkey is a dynamic news application built using ReactJS, HTML, CSS, and Bootstrap, providing users with a seamless and personalized news-reading experience. This project showcases the implementation of features like infinite scroll, a dynamic spinner, and a loading bar, along with the sleek design elements of Bootstrap.
 
 ### Features
 
@@ -16,7 +16,7 @@
 
 - ### Screnshots
 
-![Uploading image.png…]()
+![image](https://github.com/Pradnya129/NewsMonkey/assets/129608807/9956667c-b78f-4d1c-a7e4-5a08e74be5f1)
 
 
 # Getting Started with Create React App
